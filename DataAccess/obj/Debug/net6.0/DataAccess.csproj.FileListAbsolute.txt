@@ -1,0 +1,12 @@
+C:\Users\dusan\source\repos\SetviTestSolution\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\dusan\source\repos\SetviTestSolution\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\dusan\source\repos\SetviTestSolution\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\dusan\source\repos\SetviTestSolution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\dusan\source\repos\SetviTestSolution\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dusan\source\repos\SetviTestSolution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\dusan\source\repos\SetviTestSolution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\dusan\source\repos\SetviTestSolution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\dusan\source\repos\SetviTestSolution\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\dusan\source\repos\SetviTestSolution\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\dusan\source\repos\SetviTestSolution\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\dusan\source\repos\SetviTestSolution\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
